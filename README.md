@@ -1,7 +1,7 @@
 # NuraSafe — Private Offline AI Safety Companion
 
 <p align="center">
-  <img src="docs/images/banner.png" alt="NuraSafe banner" width="100%" />
+  <img src="Docs/images/banner.png" alt="NuraSafe banner" width="100%" />
 </p>
 
 [![App Store](https://img.shields.io/badge/App%20Store-Free%20Download-blue?logo=apple)](https://apps.apple.com/app/id6761926910)
@@ -26,9 +26,9 @@ NuraSafe is a fully offline AI safety companion for iPhone. It runs a 3-billion 
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="docs/images/chat.png" width="220" alt="Chat screen — offline AI assistant" />
-  <img src="docs/images/emergency-modes.png" width="220" alt="Emergency mode selector" />
-  <img src="docs/images/nuclear-mode.png" width="220" alt="Nuclear / Radiation mode active" />
+  <img src="Docs/images/chat.png" width="220" alt="Chat screen — offline AI assistant" />
+  <img src="Docs/images/emergency-modes.png" width="220" alt="Emergency mode selector" />
+  <img src="Docs/images/nuclear-mode.png" width="220" alt="Nuclear / Radiation mode active" />
 </p>
 
 ---
