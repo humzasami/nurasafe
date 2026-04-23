@@ -27,9 +27,11 @@ NuraSafe is a fully offline AI safety companion for iPhone. It runs a 3-billion 
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="Docs/images/chat.png" width="220" alt="Chat screen — offline AI assistant" />
-  <img src="Docs/images/emergency-modes.png" width="220" alt="Emergency mode selector" />
-  <img src="Docs/images/nuclear-mode.png" width="220" alt="Nuclear / Radiation mode active" />
+  <img src="Docs/images/chat.png" width="30%" alt="Chat screen — offline AI assistant" />
+  &nbsp;
+  <img src="Docs/images/emergency-modes.png" width="30%" alt="Emergency mode selector" />
+  &nbsp;
+  <img src="Docs/images/nuclear-mode.png" width="30%" alt="Nuclear / Radiation mode active" />
 </p>
 
 ---
@@ -111,30 +113,9 @@ When a mode is activated:
 
 The core innovation in NuraSafe is a five-component retrieval pipeline designed specifically for small on-device LLMs. Standard RAG architectures break on small models in three ways — query drift, retrieval noise, and semantic blindness — this pipeline addresses each.
 
-```
-User message
-     │
-     ▼
-[1] Retrieval Gate ─── SKIP ──► LLM answers from memory
-     │ (needs KB)
-     ▼
-[2] Query Generator
-     │  LLM compresses message + mode context → search phrase
-     ▼
-[3] Drift Guard (Jaccard check) ── drift detected ──► use raw message
-     │ no drift
-     ▼
-[4] Hybrid Search
-     │  BM25 (40%) + E5 Semantic (60%) on scenario-filtered candidates
-     ▼
-[5] Degenerate Embedding Detection ── degenerate ──► BM25-only fallback
-     │ healthy
-     ▼
-Top 3 chunks injected into LLM prompt
-     │
-     ▼
-Answer LLM — grounded in KB content
-```
+<p align="center">
+  <img src="Docs/images/pipeline.png" alt="Adaptive Hybrid RAG Pipeline diagram" width="80%" />
+</p>
 
 #### Component Details
 
