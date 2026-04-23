@@ -19,6 +19,27 @@ NuraSafe is a fully offline AI safety companion for iPhone. It runs a 3-billion 
 
 ---
 
+## 📸 Screenshots
+
+<!-- Add screenshots by placing PNG files in docs/images/ and updating the paths below.
+     Recommended: export from Xcode Simulator (Device → Screenshot) at iPhone 15 Pro size.
+     Example workflow:
+       mkdir -p docs/images
+       cp ~/Desktop/screenshot1.png docs/images/chat.png
+     Then update the img tags below. -->
+
+> Screenshots coming soon. To add your own, see the instructions in the comment above.
+
+<!-- Uncomment and fill in once you have screenshots:
+<p align="center">
+  <img src="docs/images/chat.png" width="220" alt="Chat screen" />
+  <img src="docs/images/emergency-modes.png" width="220" alt="Emergency mode selector" />
+  <img src="docs/images/fire-mode.png" width="220" alt="Fire mode active" />
+</p>
+-->
+
+---
+
 ## ✨ Features
 
 - **Works fully offline** — all AI inference runs on-device via Core ML and llama.cpp
@@ -28,6 +49,50 @@ NuraSafe is a fully offline AI safety companion for iPhone. It runs a 3-billion 
 - **Multilingual support** — responds in the user's preferred language
 - **Pin important responses** — save critical guidance for quick access
 - **Complete privacy** — zero data collection, no tracking, no account required
+
+---
+
+## 🚨 Emergency Modes
+
+Tapping the emergency panel activates a dedicated mode that re-focuses the LLM's system prompt, filters the knowledge base to the relevant scenario, and surfaces contextual quick-prompt chips. Each mode has its own conversation history and can be deactivated at any time to return to general chat.
+
+| Mode | Scenario | What it focuses on |
+|------|----------|--------------------|
+| 🩺 **First Aid** | Medical emergencies, injuries | CPR, bleeding, burns, fractures, unconsciousness |
+| 🔥 **Fire** | Structure fires, wildfires | Evacuation, smoke, burn treatment, rescue signals |
+| 🌊 **Flood** | Flash flood, rising water | High ground, floodwater safety, vehicle escape |
+| ⚡ **Power Outage** | Grid failure | Food safety, heating, generator use, device charging |
+| 🏠 **Shelter** | Displacement, no shelter | Shelter-in-place, emergency shelters, securing a room |
+| 🌍 **Earthquake** | Seismic events | Drop/cover/hold, gas leaks, aftershocks, structural damage |
+| ☢️ **Nuclear / Radiation** | Radiation alert, dirty bomb | Shelter-in-place, potassium iodide, decontamination |
+| 🛡️ **War / Conflict** | Active conflict zone | Evacuation routes, airstrikes, civilian signalling |
+| ☣️ **Chemical Hazard** | Gas leak, chemical release | Exposure response, decontamination, evacuate vs. shelter |
+| 🌊 **Tsunami** | Coastal wave warning | Evacuation distance, high ground, return timing |
+| 🌲 **Wildfire** | Fast-moving fire | Evacuation timing, ember defence, smoke inhalation |
+| ❄️ **Blizzard / Extreme Cold** | Severe winter storm | Hypothermia, car survival, carbon monoxide |
+
+### How modes work technically
+
+When a mode is activated:
+
+1. A new dedicated conversation is created and tagged with the scenario.
+2. The system prompt switches to a mode-specific template (see `Core/SystemPrompts.swift`).
+3. The RAG pipeline pre-filters the knowledge base to chunks matching the active scenario before hybrid search runs.
+4. Five contextual quick-prompt chips appear in the chat UI so users can get help with one tap.
+5. Deactivating the mode resumes the previous general-chat conversation.
+
+### Adding a new emergency mode
+
+1. **Add a case** to `EmergencyScenario` in `NuraSafe/Models/EmergencyScenario.swift`:
+   ```swift
+   case volcano = "Volcanic Eruption"
+   ```
+
+2. **Fill in the required computed properties** in the same file — `icon` (SF Symbol name), `color`, `shortLabel`, `modeDescription`, and `suggestedPrompts` (5 example questions).
+
+3. **Add a system prompt** in `NuraSafe/Core/SystemPrompts.swift` — add a `case` to the switch in `systemPrompt(for:)` with survival-focused instructions for the LLM.
+
+4. **Add knowledge base chunks** in `NuraSafe/Resources/KnowledgeBase.json` — add JSON objects with `"id"`, `"scenario"` (matching the raw value, e.g. `"Volcanic Eruption"`), `"title"`, and `"content"` fields. The RAG engine picks them up automatically on next launch.
 
 ---
 
