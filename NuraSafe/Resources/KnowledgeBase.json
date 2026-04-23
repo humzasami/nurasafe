@@ -1,0 +1,722 @@
+[
+  {
+    "id": "fa-001",
+    "scenario": "First Aid",
+    "title": "Severe bleeding — direct pressure and tourniquet",
+    "content": "Apply firm, continuous direct pressure with a clean cloth or bandage. Do not remove the cloth if it soaks through — add more layers on top and press harder. Maintain pressure for at least 10 minutes without lifting. Elevate the injured limb above heart level if no bone injury is suspected. If bleeding does not stop within 3–5 minutes or is life-threatening: apply a tourniquet 5–7 cm above the wound on a limb (not on a joint), tighten until bleeding stops, and write the time applied on the person's skin. Wound packing: for deep wounds (neck, groin, armpit) where a tourniquet cannot be applied, pack clean cloth firmly into the wound and hold pressure. Do not remove packing. Get emergency medical care immediately."
+  },
+  {
+    "id": "fa-002",
+    "scenario": "First Aid",
+    "title": "CPR — adult (hands-only and full)",
+    "content": "Check for responsiveness — tap shoulders and shout. Look for normal breathing for no more than 10 seconds. If unresponsive and not breathing normally: call emergency services immediately, then start CPR. Hands-only CPR (if untrained): place heel of one hand on centre of chest, other hand on top, push hard and fast — at least 5 cm deep at 100–120 compressions per minute. Do not stop. Full CPR (if trained): 30 chest compressions followed by 2 rescue breaths. Tilt head back, lift chin, pinch nose, seal mouth, give breath over 1 second watching chest rise. Continue 30:2 ratio. Use an AED as soon as one is available — turn it on and follow voice prompts. Continue CPR until emergency services take over, person starts breathing, or you are physically unable to continue. CPR doubles or triples survival chances."
+  },
+  {
+    "id": "fa-003",
+    "scenario": "First Aid",
+    "title": "Burn treatment — thermal burns",
+    "content": "Cool the burn immediately under cool (not cold, not iced) running water for at least 20 minutes — this is the most important step and reduces depth of injury. Do not use ice, butter, toothpaste, oil, or any home remedy — these cause further damage. Remove jewellery and clothing near the burn unless stuck to skin. Cover loosely with a clean non-fluffy material (cling film is ideal — wrap lengthwise, not around a limb). Do not pop blisters — they protect against infection. Seek emergency medical care for: burns larger than the person's palm, burns on face/hands/feet/genitals/joints, burns that are white, brown, or black (deep), chemical or electrical burns, burns in children under 5 or adults over 60, and any burn with inhalation injury (singed eyebrows, hoarse voice, soot in nose/mouth)."
+  },
+  {
+    "id": "fa-004",
+    "scenario": "First Aid",
+    "title": "Shock — recognition and treatment",
+    "content": "Shock is a life-threatening condition where the body's organs are not getting enough blood. Signs: pale, cold, clammy skin; rapid weak pulse; rapid shallow breathing; confusion or anxiety; nausea; thirst. Treatment: lay the person flat on their back and raise legs 20–30 cm unless a head, neck, spine, or leg injury is suspected. Keep them warm with a blanket — do not overheat. Do not give food, water, or alcohol. Loosen tight clothing at neck, chest, and waist. Monitor breathing every minute. Call emergency services immediately. If they become unconscious and stop breathing normally, begin CPR. Reassure them calmly — anxiety worsens shock. Do not leave them alone."
+  },
+  {
+    "id": "fa-005",
+    "scenario": "First Aid",
+    "title": "Choking — adult and child",
+    "content": "Ask 'Are you choking?' — if they can speak, cough, or breathe, encourage them to keep coughing. Do not intervene yet. If they cannot speak, cough, or breathe: give 5 firm back blows between shoulder blades with heel of hand. Check mouth after each blow — remove any visible obstruction. If still choking: give 5 abdominal thrusts (Heimlich manoeuvre) — stand behind, make a fist above navel below breastbone, cover with other hand, pull sharply inward and upward. Alternate 5 back blows and 5 abdominal thrusts. If person becomes unconscious: lower carefully to floor, call emergency services, begin CPR — before each breath look in mouth and remove any visible object. For pregnant or obese person: use chest thrusts instead of abdominal thrusts. For infant under 1 year: use 5 back blows and 5 chest thrusts (not abdominal thrusts)."
+  },
+  {
+    "id": "fa-006",
+    "scenario": "First Aid",
+    "title": "Broken bone — immobilization",
+    "content": "Signs: deformity, severe pain, swelling, bruising, inability to use the limb, bone visible through skin. Do not try to realign the bone. Immobilize the injured area and the joints above and below the fracture. Use rigid materials as splints: rolled newspaper, cardboard, sticks, or a rolled blanket. Pad the splint with cloth for comfort. Secure with bandages or cloth strips — snug but not cutting off circulation. Check circulation every 10 minutes: press nail bed, colour should return within 2 seconds. If fingers or toes are cold, blue, or numb, loosen the bandage. Elevate if possible. Apply ice wrapped in cloth for 20 minutes to reduce swelling. For open fractures (bone through skin): cover wound with clean cloth, do not push bone back in. Seek emergency medical care immediately."
+  },
+  {
+    "id": "fa-007",
+    "scenario": "First Aid",
+    "title": "Sprain or strain — PRICE method",
+    "content": "PRICE method — Protection, Rest, Ice, Compression, Elevation. PROTECT: stop activity and protect the injured area from further harm. REST: stop using the injured area for 48–72 hours. ICE: apply ice wrapped in cloth for 15–20 minutes every 2–3 hours for the first 48–72 hours — never apply ice directly to skin. COMPRESSION: wrap with elastic bandage from below the injury upward — firm but not cutting off circulation. Check fingers/toes for numbness or colour change. ELEVATION: raise the injured area above heart level as much as possible to reduce swelling. Take over-the-counter pain relief. Seek medical care if: severe pain, cannot bear weight after 24 hours, joint looks deformed, numbness or tingling occurs, or no improvement after 3 days."
+  },
+  {
+    "id": "fa-008",
+    "scenario": "First Aid",
+    "title": "Head injury — concussion recognition",
+    "content": "Concussion is a brain injury caused by a blow to the head. Signs: confusion or feeling 'foggy', headache, dizziness, nausea, sensitivity to light or noise, memory problems, slurred speech, brief loss of consciousness. Immediate action: keep the person still and calm. Do not give aspirin or ibuprofen (can increase bleeding risk). Give paracetamol for pain if needed. Monitor closely for 24–48 hours. Wake them every 2–3 hours during sleep to check responsiveness. Call emergency services immediately for: loss of consciousness lasting more than 1 minute, repeated vomiting, seizure, severe headache that worsens, unequal pupil size, clear fluid from nose or ears, weakness or numbness in limbs, difficulty walking or speaking. These signs suggest serious brain injury — do not wait."
+  },
+  {
+    "id": "fa-009",
+    "scenario": "First Aid",
+    "title": "Allergic reaction — anaphylaxis",
+    "content": "Anaphylaxis is a severe, life-threatening allergic reaction that can occur within seconds to minutes. Signs: difficulty breathing or wheezing, swelling of face/lips/tongue/throat, skin rash or hives, rapid weak pulse, dizziness or collapse, nausea or vomiting, pale or blue skin. Act immediately: call emergency services. Use epinephrine auto-injector (EpiPen) if available — inject into outer mid-thigh, hold for 10 seconds. It can be given through clothing. Lay person flat and raise legs unless breathing is difficult (then sit upright). If breathing stops, begin CPR. A second dose of epinephrine may be needed after 5–15 minutes if no improvement. Even if symptoms improve after epinephrine, the person must go to hospital — biphasic reactions can occur hours later. Antihistamines alone are not sufficient for anaphylaxis."
+  },
+  {
+    "id": "fa-010",
+    "scenario": "First Aid",
+    "title": "Heart attack — recognition and response",
+    "content": "Signs: chest pain, pressure, squeezing, or tightness lasting more than a few minutes; pain spreading to arm (especially left), jaw, neck, or back; shortness of breath; cold sweat; nausea; lightheadedness. Women often have atypical symptoms: fatigue, jaw pain, nausea without chest pain. Call emergency services immediately — do not drive to hospital. Have the person sit or lie in the most comfortable position. Give aspirin 300 mg to chew (not swallow whole) if not allergic and not already taken — it reduces clot formation. Loosen tight clothing. Reassure them calmly. If they become unconscious and stop breathing normally, begin CPR immediately. Use AED if available. Every minute without treatment increases heart muscle damage."
+  },
+  {
+    "id": "fa-011",
+    "scenario": "First Aid",
+    "title": "Stroke — FAST and BE-FAST recognition",
+    "content": "Use BE-FAST: BALANCE — sudden loss of balance or coordination. EYES — sudden vision change in one or both eyes. FACE — ask to smile; does one side droop? ARMS — ask to raise both arms; does one drift down? SPEECH — ask to repeat a phrase; is speech slurred or strange? TIME — if any sign is present, call emergency services immediately. Note the exact time symptoms started — this is critical for treatment decisions. Do not give food, drink, or aspirin. Lay person down with head and shoulders slightly raised. Do not leave them alone. Stroke treatment is time-critical: clot-busting medication must be given within 4.5 hours of symptom onset. Every minute, 1.9 million brain cells die during a stroke. Stroke can also occur in children and young adults — the same FAST signs apply."
+  },
+  {
+    "id": "fa-012",
+    "scenario": "First Aid",
+    "title": "Diabetic emergency — low blood sugar (hypoglycaemia)",
+    "content": "Signs of hypoglycaemia: shaking, sweating, confusion, irritability, rapid heartbeat, pale skin, hunger, dizziness, weakness, headache. If conscious and able to swallow: give 15–20 grams of fast-acting sugar — 4 glucose tablets, 150 ml fruit juice, 1 tablespoon honey, or 3–4 teaspoons of sugar in water. Wait 15 minutes. If symptoms persist, repeat. Once improved, give a snack containing complex carbohydrate and protein (crackers with peanut butter, sandwich). If unconscious or unable to swallow: do not give anything by mouth — call emergency services. If glucagon injection kit is available and you are trained, use it. Place in recovery position if unconscious but breathing. Signs of high blood sugar (hyperglycaemia) develop slowly: excessive thirst, frequent urination, fatigue, blurred vision — seek medical care."
+  },
+  {
+    "id": "fa-013",
+    "scenario": "First Aid",
+    "title": "Seizure — what to do",
+    "content": "Stay calm. Time the seizure from start. Protect from injury: move furniture and hard objects away. Cushion head with something soft. Turn person gently onto their side to keep airway clear and prevent choking. Do NOT restrain movements — you cannot stop a seizure by holding them. Do NOT put anything in their mouth — people cannot swallow their tongue. Do NOT give water or food during or immediately after. Call emergency services if: seizure lasts more than 5 minutes, person does not regain consciousness after seizure stops, a second seizure follows quickly, person is injured, pregnant, has diabetes, or this is their first seizure. After seizure: person will be confused and tired (postictal state) — stay with them, speak calmly, check for injuries. Recovery usually takes 5–20 minutes."
+  },
+  {
+    "id": "fa-014",
+    "scenario": "First Aid",
+    "title": "Poisoning — emergency response",
+    "content": "If swallowed: do not induce vomiting unless specifically instructed by poison control — vomiting can cause additional harm with some substances (acids, alkalis, petroleum products). If on skin: remove contaminated clothing, rinse skin with large amounts of water for 15–20 minutes. If in eyes: flush with clean lukewarm water for 15–20 minutes, holding eyelids open. If inhaled: move to fresh air immediately. Call poison control or emergency services. Have the container, substance name, and amount available. Monitor breathing and consciousness. If unconscious, place in recovery position. If not breathing, begin CPR. Do not give milk or water to 'dilute' poison unless instructed. Keep any vomit sample for medical staff."
+  },
+  {
+    "id": "fa-015",
+    "scenario": "First Aid",
+    "title": "Nosebleed — how to stop",
+    "content": "Sit upright and lean slightly forward — do not tilt head back (blood flows into throat causing nausea or choking). Pinch the soft part of the nose (below the bony bridge) firmly for 10–15 minutes without releasing. Breathe through mouth. Apply a cold compress or ice pack wrapped in cloth to the bridge of the nose and forehead. After bleeding stops: avoid blowing nose, bending over, or straining for several hours. Avoid hot drinks for 24 hours. Seek medical care if: bleeding does not stop after 20 minutes of continuous pressure, caused by a head injury, taking blood-thinning medication, blood is also coming from ears or mouth, or nosebleeds are frequent. Most nosebleeds are from the front of the nose and are not dangerous."
+  },
+  {
+    "id": "fa-016",
+    "scenario": "First Aid",
+    "title": "Drowning — rescue and resuscitation",
+    "content": "Your safety first: do not enter the water unless trained in water rescue — throw a rope, life ring, or flotation device instead. Shout instructions to the person to grab the object. Once person is out of water: check for responsiveness and breathing. If not breathing normally, begin CPR immediately — start with 5 rescue breaths before chest compressions (drowning is caused by lack of oxygen, not cardiac arrest). Give 30 compressions then 2 breaths. Do not stop to remove water from lungs — this is not effective. Continue CPR until emergency services arrive. Even if person appears to recover, they must be assessed at hospital — secondary drowning can occur hours later. Hypothermia is common — keep them warm after rescue."
+  },
+  {
+    "id": "fa-017",
+    "scenario": "First Aid",
+    "title": "Heat exhaustion and heat stroke",
+    "content": "Heat exhaustion (serious but not immediately life-threatening): heavy sweating, cool pale clammy skin, rapid weak pulse, nausea, headache, dizziness, muscle cramps, weakness. Treatment: move to cool shaded area, loosen clothing, apply cool wet cloths to skin, fan the person, give cool water to sip if conscious. Seek medical care if symptoms worsen or last more than 1 hour. Heat stroke (medical emergency — can be fatal): high body temperature above 40°C, hot dry OR sweaty skin, rapid strong pulse, confusion, slurred speech, loss of consciousness. Treatment: call emergency services immediately. Cool the person as fast as possible — immerse in cool water or apply ice packs to neck, armpits, and groin. Do not give fluids if confused or unconscious. Fan while misting with cool water. Do not give aspirin or paracetamol — they do not help heat stroke and can cause harm."
+  },
+  {
+    "id": "fa-018",
+    "scenario": "First Aid",
+    "title": "Asthma attack — what to do",
+    "content": "Signs of asthma attack: wheezing, coughing, chest tightness, shortness of breath, difficulty speaking in full sentences. Sit the person upright — do not lay them down. Help them use their reliever inhaler (usually blue): shake well, 1 puff every 30–60 seconds, up to 10 puffs. Use a spacer if available — it doubles the medication reaching the lungs. Stay calm and reassure them — anxiety worsens attacks. Call emergency services if: no reliever inhaler available, no improvement after 10 puffs, symptoms worsen, they are too breathless to speak, lips or fingernails turn blue, they are exhausted from breathing effort, or they lose consciousness. After using inhaler, wait 15 minutes before repeating. If attack resolves, person should see a doctor within 24 hours."
+  },
+  {
+    "id": "fa-019",
+    "scenario": "First Aid",
+    "title": "Snake bite — universal first aid",
+    "content": "Keep the person still and calm — movement speeds venom absorption. Lay them down with the bitten limb at or below heart level. Remove watches, rings, and tight clothing near the bite — swelling will occur. Immobilize the bitten limb with a splint or sling. Call emergency services immediately. Note the time of bite and try to describe or photograph the snake from a safe distance — do not approach or try to catch it. Do NOT: cut the wound, suck out venom, apply a tourniquet, apply ice, use electric shock, or apply pressure immobilization bandaging (these are all harmful). Do NOT give alcohol. Reassure the person and monitor for symptoms: nausea, vomiting, swelling, difficulty breathing, blurred vision, drooping eyelids. Most bites require antivenom — this can only be given at a medical facility."
+  },
+  {
+    "id": "fa-020",
+    "scenario": "First Aid",
+    "title": "Bee, wasp, and insect stings",
+    "content": "For bee stings: remove the stinger as quickly as possible by scraping with a fingernail, credit card, or flat object — do not squeeze with tweezers as this injects more venom. Wash the area with soap and water. Apply ice wrapped in cloth for pain and swelling. Take over-the-counter antihistamines for itching. Topical corticosteroid cream reduces local reaction. Signs of anaphylaxis requiring immediate emergency care: difficulty breathing, swelling of face or throat, dizziness, rapid pulse, widespread hives, vomiting. Use epinephrine auto-injector immediately if available. Multiple stings (more than 10–20) can cause toxic reaction even without allergy — seek medical care. Do not scratch the sting site — it increases infection risk."
+  },
+  {
+    "id": "fa-021",
+    "scenario": "First Aid",
+    "title": "Eye injury — foreign object and chemical splash",
+    "content": "Foreign object in eye: do not rub the eye. Blink rapidly to allow tears to flush it out. Rinse with clean water or saline from inner corner outward. If object is visible on white of eye: gently lift upper eyelid over lower to dislodge. If object is embedded, on the cornea (coloured part), or cannot be removed: cover eye loosely with clean cloth and seek medical care. Do not try to remove embedded objects. Chemical splash: flush immediately with large amounts of clean water for at least 15–20 minutes, holding eyelids open. Remove contact lenses if present. Flush from inner corner outward. Seek emergency medical care immediately — note the chemical name. Acid burns are painful immediately; alkali burns (bleach, cement) may feel mild but cause severe damage."
+  },
+  {
+    "id": "fa-022",
+    "scenario": "First Aid",
+    "title": "Psychological first aid — supporting someone in crisis",
+    "content": "WHO Psychological First Aid (PFA) is evidence-based support for people in distress after a crisis. LOOK: observe and approach safely, identify who needs support. LISTEN: introduce yourself calmly, ask what happened, listen without judgment, do not pressure them to talk. LINK: help them meet basic needs (water, shelter, safety), connect with family or support people, provide practical information. Key principles: respect dignity and culture, do not force people to share their story, do not give false reassurance. What to say: 'I am here with you', 'You are safe now', 'What do you need right now?' What NOT to say: 'I know how you feel', 'Everything happens for a reason', 'You should be grateful you survived.' Signs someone needs urgent mental health care: expressing intent to harm themselves or others, severe confusion or inability to function, extreme agitation."
+  },
+  {
+    "id": "fire-001",
+    "scenario": "Fire",
+    "title": "Fire evacuation — building",
+    "content": "Activate the fire alarm immediately. Call emergency services. Crawl low under smoke — smoke rises and breathable air is near the floor. Feel doors before opening with the back of your hand — if hot, do not open. Use stairs, never elevators. Close doors behind you to slow fire and smoke spread — a closed door can hold back fire for 10–30 minutes. Follow exit signs. Meet at the designated assembly point and do not re-enter for any reason. If you encounter smoke in a stairwell, use an alternative exit. If you are mobility-impaired: move to a stairwell landing (Area of Rescue Assistance) and call emergency services with your location. Smoke inhalation is the leading cause of fire deaths — stay low."
+  },
+  {
+    "id": "fire-002",
+    "scenario": "Fire",
+    "title": "Trapped in a burning building",
+    "content": "Close all doors between you and the fire — this is your most important action. Seal gaps under doors with clothing, bedding, or towels to slow smoke entry. Turn off ventilation fans. Signal from a window — wave a bright cloth and shout. Call emergency services and give your exact floor, room number, and building address. Do not jump from heights above 2 storeys unless fire is immediately at the door and life-threatening. Stay low near the window for fresher air. If smoke enters the room, breathe through a wet cloth. If your clothing catches fire: STOP, DROP, ROLL — stop moving, drop to the ground, cover your face, roll to smother flames. Do not open a door if the handle is hot."
+  },
+  {
+    "id": "fire-003",
+    "scenario": "Fire",
+    "title": "Smoke inhalation",
+    "content": "Move immediately to fresh air. Loosen tight clothing around the neck. If unconscious, place in recovery position. Symptoms of smoke inhalation: coughing, hoarseness, soot around nose or mouth, singed eyebrows or nasal hairs, confusion, difficulty breathing. Seek emergency medical care even if symptoms seem mild — damage to airways can worsen significantly over 12–24 hours as swelling develops. Carbon monoxide from smoke is colourless and odourless — it causes headache, dizziness, confusion, and loss of consciousness. Do not return to a smoke-filled area. In hospital, oxygen therapy is the primary treatment. Delayed symptoms can include chest pain and respiratory failure."
+  },
+  {
+    "id": "fire-004",
+    "scenario": "Fire",
+    "title": "Kitchen fire — grease fire",
+    "content": "Never use water on a grease fire — it causes a violent steam explosion that spreads burning oil. Turn off the heat source immediately. If fire is small and contained in a pan: slide a metal lid over the pan to smother it, then turn off heat. Leave the lid on until completely cool — do not lift it. If you have a dry powder or CO2 fire extinguisher: use it from a safe distance. If fire is spreading beyond the pan: do not try to move the burning pan — leave immediately, close the door behind you, and call emergency services. Baking soda can smother a very small grease fire — never use flour (it is explosive). A fire blanket is the safest tool for kitchen fires."
+  },
+  {
+    "id": "fire-005",
+    "scenario": "Fire",
+    "title": "Electrical fire",
+    "content": "Never use water on an electrical fire — water conducts electricity and can cause electrocution. Turn off power at the main breaker if safe and accessible. Use a CO2 or dry powder fire extinguisher rated for electrical fires. If fire is in an appliance: unplug it only if you can do so safely without touching the appliance. Do not touch anyone in contact with an electrical source — turn off power first or use a non-conductive object (dry wood, plastic) to separate them. If fire is large or spreading, evacuate immediately and call emergency services. After electrical fire: even if extinguished, have the wiring inspected before using power again — re-ignition is common."
+  },
+  {
+    "id": "fire-006",
+    "scenario": "Fire",
+    "title": "Clothing on fire — stop, drop, roll",
+    "content": "STOP — do not run, running fans the flames and makes them worse. DROP — drop to the ground immediately, covering face with hands to protect airways. ROLL — roll over and over to smother the flames. If someone else's clothing is on fire: make them stop, drop, and roll. If they cannot, smother the flames with a blanket, coat, or rug — do not use synthetic materials that can melt. Once flames are out: cool burns with cool running water for 20 minutes. Remove jewellery and tight clothing near burns unless stuck to skin. Cover with clean non-fluffy material. Seek emergency medical care for any significant burn."
+  },
+  {
+    "id": "fire-007",
+    "scenario": "Fire",
+    "title": "Fire extinguisher — PASS technique",
+    "content": "Only fight small, contained fires. If fire is spreading, blocking your exit, or you are unsure of the type: evacuate immediately. PASS: PULL the safety pin at the top. AIM the nozzle at the base of the fire — not the flames. SQUEEZE the handle to release the agent. SWEEP from side to side at the base of the fire. Stand 2–3 metres back. Keep your back to an exit. If fire does not go out within 30 seconds, stop and evacuate. Types: CO2 (electrical, flammable liquids), dry powder (most fires), wet chemical (kitchen/cooking oils), water (paper, wood — never electrical). Check extinguisher monthly — pressure gauge should be in green zone. Replace or service after any use."
+  },
+  {
+    "id": "flood-001",
+    "scenario": "Flood",
+    "title": "Flood evacuation — immediate actions",
+    "content": "Move immediately to higher ground — do not wait for official instructions if water is rising rapidly. Never walk through moving water more than 15 cm deep — it can knock an adult off their feet. Never drive through flooded roads — 30 cm of water can carry away most vehicles, and 60 cm can carry away a large truck. Turn off utilities at the main switches if safe to do so. Take emergency kit: water, documents, medications, phone charger, food. Lock your home. If time allows: move valuables to upper floors. Do not use lifts. If you have children or elderly family members, help them first. Floodwater rises faster than most people expect — act at the first sign of rising water."
+  },
+  {
+    "id": "flood-002",
+    "scenario": "Flood",
+    "title": "Trapped by floodwater",
+    "content": "Move to the highest floor or roof. Signal rescuers with a bright cloth, torch, whistle, or mirror reflection. Call emergency services and give your exact address, floor, and number of people. Do not enter floodwater to escape unless fire or structural collapse is immediately life-threatening. Floodwater contains sewage, chemicals, sharp debris, and downed power lines — it is extremely dangerous. Stay visible and wait for rescue. If water continues rising and you must move: tie yourself to a fixed structure. Preserve phone battery — use only for emergency calls. If swept into water: float on your back with feet downstream to fend off obstacles, angle toward shore."
+  },
+  {
+    "id": "flood-003",
+    "scenario": "Flood",
+    "title": "Post-flood safety",
+    "content": "Do not return home until authorities declare it safe — structures may be unstable. Wear rubber boots and gloves — floodwater is contaminated with sewage, chemicals, and biological hazards. Check for structural damage before entering: cracked foundations, sagging floors, damaged walls. Do not use electrical appliances until a qualified electrician has inspected them — do not turn on power if the building was flooded. Boil water before drinking until water supply is officially declared safe. Watch for displaced wildlife including snakes in unexpected places. Photograph damage before cleaning for insurance purposes. Mould can develop within 24–48 hours — dry out the building as quickly as possible."
+  },
+  {
+    "id": "flood-004",
+    "scenario": "Flood",
+    "title": "Flash flood in vehicle",
+    "content": "If water is rising around your vehicle: abandon it immediately and move to higher ground. Do not try to drive through floodwater — 30 cm can sweep away most vehicles. If vehicle stalls in water: abandon it immediately. If swept away in vehicle: unbuckle seatbelt immediately. Open the window as soon as possible — electric windows may fail in water. If windows will not open, wait until water pressure equalises (vehicle nearly full of water), then push door open. Escape before vehicle sinks. Do not wait for water to equalise if you can break the window — use a headrest spike or window breaker tool. Climb onto roof if you cannot escape. Shout for help."
+  },
+  {
+    "id": "flood-005",
+    "scenario": "Flood",
+    "title": "Swept away by floodwater",
+    "content": "Do not fight the current — you will exhaust yourself. Float on your back with feet downstream and pointed forward to fend off obstacles. Keep your head above water. Angle your body toward the shore and swim diagonally across the current when near the edge. Look for something stable to grab — tree, pole, building, bridge support. Avoid strainers (objects water flows through but you cannot, like fences or debris piles) — they are deadly. If you see someone else in trouble: do not enter the water — throw a rope, branch, clothing tied together, or flotation device. Shout instructions. Call emergency services immediately."
+  },
+  {
+    "id": "eq-001",
+    "scenario": "Earthquake",
+    "title": "Drop Cover Hold On",
+    "content": "DROP to hands and knees immediately — this protects you from being knocked down and allows you to move if needed. Take COVER under a sturdy desk or table, or against an interior wall away from windows. If no table is nearby, cover your head and neck with both arms and hands. HOLD ON to your shelter and be prepared to move with it. Stay away from windows, exterior walls, heavy furniture, and appliances that could fall. Do not run outside during shaking — most injuries occur from falling debris when people try to move. If in bed: stay there, roll face-down, and cover head and neck with pillow. If outdoors: move away from buildings, power lines, and trees, then drop and cover. Shaking usually lasts 10–60 seconds."
+  },
+  {
+    "id": "eq-002",
+    "scenario": "Earthquake",
+    "title": "After an earthquake — immediate checks",
+    "content": "Check yourself for injuries before helping others. Expect aftershocks — drop, cover, hold on again when they occur. Check for gas leaks: smell of gas, hissing sounds, dead vegetation near pipes. If suspected: open windows, leave immediately, do not use switches, flames, or phones inside. Call gas company from outside. Check for fires — small fires are common after earthquakes. Do not use elevators. Inspect your home for structural damage: cracked foundations, leaning walls, damaged chimneys. Do not re-enter if structurally unsafe. Stay away from damaged buildings. Check on neighbours, especially elderly or disabled. Listen to emergency broadcasts for instructions."
+  },
+  {
+    "id": "eq-003",
+    "scenario": "Earthquake",
+    "title": "Earthquake in high-rise building",
+    "content": "DROP, COVER, and HOLD ON immediately. Get under a desk or table. Stay away from windows and exterior walls — glass shatters and falls outward. Do not run outside — falling debris from the building is the greatest danger. Do not use elevators during or after shaking. After shaking stops: check for injuries, check for fire or gas leaks, then use stairs to evacuate if building is damaged. Be prepared for aftershocks. If trapped: do not light matches or lighters. Tap on pipes or walls to signal rescuers — three taps is the universal distress signal. Shout only as a last resort to conserve air. Cover nose and mouth with cloth to filter dust."
+  },
+  {
+    "id": "eq-004",
+    "scenario": "Earthquake",
+    "title": "Earthquake while driving",
+    "content": "Slow down and pull over to a clear area away from buildings, trees, overpasses, and power lines. Stay in the vehicle with seatbelt fastened — the vehicle provides protection from falling debris. Set parking brake. Turn on hazard lights. When shaking stops, proceed cautiously. Watch for road damage, cracks, sinkholes, and fallen debris. Do not cross bridges, overpasses, or underpasses until you are sure they are undamaged. Avoid roads near cliffs or hillsides — landslides are common after earthquakes. Listen to radio for emergency information and road closures."
+  },
+  {
+    "id": "eq-005",
+    "scenario": "Earthquake",
+    "title": "Earthquake outdoors",
+    "content": "Move away from buildings, power lines, trees, and streetlights immediately — falling debris is the main danger. Drop to the ground and cover your head and neck with your arms. Stay there until shaking stops. After shaking: move to an open area away from damaged structures. Be aware of aftershocks. Do not enter damaged buildings. If near the coast: move to high ground immediately — earthquakes can trigger tsunamis within minutes. Do not wait for an official warning. If on a hillside: watch for landslides and rockfalls — move sideways away from the slide path, not downhill."
+  },
+  {
+    "id": "nuke-001",
+    "scenario": "Nuclear / Radiation",
+    "title": "Nuclear detonation — immediate shelter-in-place",
+    "content": "Get inside a substantial building immediately — do not stay outside. The best protection is a basement or the centre of a multi-storey building. Brick, concrete, and underground structures provide the most shielding. Stay away from windows and exterior walls. Turn off all ventilation systems, fans, and air conditioning. Seal gaps around doors and windows with tape and plastic sheeting if available. Stay inside for at least 24 hours unless authorities direct otherwise — radiation levels drop by 90% in the first 7 hours and by 99% in 48 hours (the 7:10 rule). Do not go outside to look for family members — shelter in place and communicate by phone. Radiation cannot be seen, smelled, or felt."
+  },
+  {
+    "id": "nuke-002",
+    "scenario": "Nuclear / Radiation",
+    "title": "Potassium iodide (KI) for radiation protection",
+    "content": "Potassium iodide (KI) protects only the thyroid gland from radioactive iodine — it does not protect other organs or against other radiation types. Take ONLY if directed by public health authorities during a nuclear emergency. Dosage by age: Adults and adolescents 12–18 years (over 68 kg): 130 mg. Children 3–12 years and adolescents under 68 kg: 65 mg. Children 1 month to 3 years: 32 mg. Infants under 1 month: 16 mg. Take as soon as possible after exposure — effectiveness drops significantly after 4 hours. Do not take if allergic to iodine. Do not use iodine antiseptics (Betadine) as a substitute — they are not effective and are toxic if ingested. KI is not a general radiation antidote."
+  },
+  {
+    "id": "nuke-003",
+    "scenario": "Nuclear / Radiation",
+    "title": "Decontamination after radiation exposure",
+    "content": "Remove and bag outer clothing immediately — this removes up to 80% of radioactive contamination. Seal clothing in a plastic bag and leave it outside or away from people. Shower with soap and water as soon as possible — do not scrub skin harshly. Blow nose gently and wipe around eyes and ears with a damp cloth. Wash hair with shampoo — do not use conditioner (it binds radioactive particles to hair). Put on clean clothes. Seek medical evaluation. Bag contaminated clothing and label it. Radiation exposure does not make you radioactive — you can be near others after decontamination. External contamination is different from internal exposure — medical evaluation determines treatment."
+  },
+  {
+    "id": "nuke-004",
+    "scenario": "Nuclear / Radiation",
+    "title": "Dirty bomb — radiological dispersal device",
+    "content": "A dirty bomb uses conventional explosives to spread radioactive material. The explosion itself is the immediate danger — the radiation risk is generally lower than a nuclear weapon. If explosion occurs: cover nose and mouth with cloth immediately. Move away from the blast area quickly and upwind — do not run through the dust cloud. Get inside a building as soon as possible. Remove outer clothing and seal in plastic bag. Shower thoroughly with soap and water. Listen to official instructions — evacuation or shelter-in-place may be ordered. Do not eat, drink, or smoke until decontaminated. The psychological impact of a dirty bomb is often greater than the physical radiation risk — stay calm and follow official guidance."
+  },
+  {
+    "id": "nuke-005",
+    "scenario": "Nuclear / Radiation",
+    "title": "Nuclear power plant emergency",
+    "content": "If authorities order evacuation: leave immediately. Take emergency kit. Close all windows and doors. Drive with windows closed and ventilation off. Do not stop until you are outside the evacuation zone. If ordered to shelter-in-place: go inside immediately. Close all windows, doors, and fireplace dampers. Turn off all ventilation, fans, and air conditioning. Go to basement or centre of building. Seal gaps with plastic sheeting and tape. Monitor emergency broadcasts continuously. Take potassium iodide only if instructed by authorities. Do not use phone except for emergencies. Stay inside until authorities give the all-clear. Radiation levels at a safe distance from a power plant are much lower than from a nuclear weapon."
+  },
+  {
+    "id": "war-001",
+    "scenario": "War / Conflict",
+    "title": "Shelter from attack — immediate actions",
+    "content": "Move immediately to the lowest floor or basement of a solid building. Concrete and brick provide the best protection. Stay away from windows, exterior walls, and doors — shrapnel and blast waves travel through glass and thin walls. If caught outside: lie flat in a ditch, depression, or behind a solid concrete wall. Cover your head and neck. Do not shelter under trees, near vehicles, fuel sources, or military equipment. Stay until you are certain the immediate threat has passed — do not move during active shelling. Keep away from military targets, vehicles, and personnel — they attract fire. If you hear incoming fire: drop immediately, do not run."
+  },
+  {
+    "id": "war-002",
+    "scenario": "War / Conflict",
+    "title": "Civilian evacuation in conflict zones",
+    "content": "Move only during daylight if possible. Use white flags or white cloth to signal civilian status. Avoid roads near military positions, checkpoints, and known conflict areas. Carry identification documents and keep them accessible. Stay on known, established routes — avoid fields, open areas, and unfamiliar paths that may be mined. Travel in groups when possible — there is safety in numbers. Register with ICRC (International Committee of the Red Cross) or UNHCR at the first opportunity. If foreign national: contact your country's embassy or consulate. Follow instructions from UN peacekeepers and humanitarian workers. Do not carry weapons — civilians with weapons may be treated as combatants."
+  },
+  {
+    "id": "war-003",
+    "scenario": "War / Conflict",
+    "title": "Active shooter — run, hide, fight",
+    "content": "RUN: If there is a safe escape path, leave immediately. Leave belongings. Help others if possible but do not stay if they refuse to move. Call emergency services when safe. HIDE: If you cannot run, hide in a room that locks or can be barricaded. Block the door with heavy furniture. Turn off lights. Silence your phone. Stay away from doors and windows. Spread out if with others. FIGHT: As an absolute last resort, commit fully to your actions. Be aggressive. Use any available object as a weapon. Throw items at the shooter. Target vulnerable areas. Do not freeze — action is better than inaction. When police arrive: keep hands visible, follow all instructions, do not make sudden movements."
+  },
+  {
+    "id": "war-004",
+    "scenario": "War / Conflict",
+    "title": "Unexploded ordnance — landmines and bombs",
+    "content": "If you see unexploded ordnance (UXO): do not touch it, move it, or attempt to disarm it. Do not take photos close to it. Mark the location from a safe distance using rocks, sticks, or cloth. Warn others loudly. Report to military, police, or humanitarian demining organisations immediately. If you must move through a suspected mined area: look for signs — disturbed earth, tripwires, metal fragments, dead animals. Walk in single file in someone else's footsteps. Probe ground gently ahead with a stick at a shallow angle. Move very slowly. If you step on a mine and feel resistance: do not lift your foot. Call for help and wait for trained personnel. Most mine injuries occur when people return to their homes after conflict."
+  },
+  {
+    "id": "chem-001",
+    "scenario": "Chemical Hazard",
+    "title": "Chemical exposure — immediate response",
+    "content": "Move upwind and uphill from the source immediately — do not run through the cloud. If indoors: shelter-in-place by sealing doors and windows with tape and wet towels. Turn off all ventilation. If exposed to skin: remove all contaminated clothing (cutting it off is faster than pulling over the head), flush skin with large amounts of water for 15–20 minutes. If in eyes: flush with clean water for 10–15 minutes, holding eyelids open. If inhaled: move to fresh air, loosen clothing, keep warm. Do not induce vomiting if ingested. Call emergency services and report the chemical name if known. Decontaminate before entering a vehicle or building to avoid spreading contamination."
+  },
+  {
+    "id": "chem-002",
+    "scenario": "Chemical Hazard",
+    "title": "Signs of chemical agent exposure",
+    "content": "Nerve agents (sarin, VX): pinpoint pupils, excessive secretions (saliva, tears, urine, sweat), muscle twitching, seizures, loss of consciousness. Treatment: move to fresh air, remove clothing, flush skin, seek emergency care immediately. Blister agents (mustard gas): skin blisters, eye irritation, respiratory distress — symptoms delayed 2–24 hours. Choking agents (chlorine, phosgene): coughing, chest tightness, blue lips — chlorine smells like bleach. Blood agents (hydrogen cyanide): rapid breathing, seizures, cherry-red skin, almond smell. General rule: any unexplained mass casualty event with multiple people showing similar symptoms simultaneously should be treated as a possible chemical incident — move upwind immediately."
+  },
+  {
+    "id": "chem-003",
+    "scenario": "Chemical Hazard",
+    "title": "Gas leak — natural gas or propane",
+    "content": "If you smell gas (rotten egg odour): do not turn lights on or off — any spark can ignite gas. Do not use any electrical switches, phones, or appliances. Do not use a lighter or matches. Open windows and doors as you leave if safe to do so. Evacuate immediately — do not stop to collect belongings. Do not try to find the leak yourself. Once outside and at a safe distance (at least 100 metres): call the gas company and emergency services. Do not re-enter until authorities declare it safe. If gas is on fire: do not try to extinguish it — evacuate and call emergency services. Gas fires should only be extinguished by stopping the gas supply."
+  },
+  {
+    "id": "chem-004",
+    "scenario": "Chemical Hazard",
+    "title": "Carbon monoxide poisoning",
+    "content": "Carbon monoxide (CO) is colourless, odourless, and tasteless — it cannot be detected without a detector. Sources: faulty heating systems, gas appliances, generators, car exhaust, blocked chimneys. Symptoms: headache (most common), dizziness, nausea, confusion, chest pain, vomiting — often mistaken for flu but without fever. Severe: loss of consciousness, seizures. If you suspect CO poisoning: get outside to fresh air immediately. Call emergency services. Do not re-enter the building. If someone is unconscious: drag them outside quickly if you can do so safely. Begin CPR if not breathing. Install CO detectors in sleeping areas and near fuel-burning appliances. Test monthly. Never run a generator, grill, or vehicle engine indoors or in a garage."
+  },
+  {
+    "id": "tsun-001",
+    "scenario": "Tsunami",
+    "title": "Tsunami warning — immediate evacuation",
+    "content": "Move inland and uphill immediately — do not wait to see the wave. A tsunami can travel at 800 km/h in open ocean and arrive within minutes of a nearby earthquake. Natural warning signs (act on any one of these): strong or long earthquake near the coast, rapid unusual withdrawal of the sea exposing the seafloor, loud roar from the ocean. Go to at least 30 metres above sea level or 3 km inland. Follow designated tsunami evacuation routes. Do not return until authorities issue the all-clear — multiple waves can follow, with the largest often not the first. The time between waves can be 10 minutes to 2 hours. Do not go to the beach to watch — people have been killed doing this."
+  },
+  {
+    "id": "tsun-002",
+    "scenario": "Tsunami",
+    "title": "Caught by tsunami wave",
+    "content": "If caught by tsunami: grab onto something sturdy that will float — a tree, door, large debris. Do not try to swim against the wave — you cannot. Protect your head from debris with your arms. If swept underwater: curl into a ball and protect your head and neck. Try to surface and grab floating debris. Once the wave passes: move to higher ground immediately — more waves will follow. Do not assume the danger is over after the first wave. Waves can be 10–30 minutes apart. Do not return to low areas for at least 8 hours or until official all-clear. Tsunami water is filled with debris, sharp objects, and contaminants — injuries from debris are common."
+  },
+  {
+    "id": "tsun-003",
+    "scenario": "Tsunami",
+    "title": "After tsunami — returning home safely",
+    "content": "Do not return until authorities declare it safe — tsunami waves can continue for hours. When returning: wear sturdy shoes and thick gloves. Watch for structural damage, gas leaks, and downed power lines. Do not use electrical appliances until checked by an electrician. Boil water before drinking until water supply is officially declared safe. Watch for displaced wildlife and contaminated water. Take photos of damage for insurance purposes before cleaning. Mould develops quickly in wet buildings — ventilate and dry out as soon as possible. Avoid disaster tourism — it hampers rescue efforts and is dangerous."
+  },
+  {
+    "id": "wild-001",
+    "scenario": "Wildfire",
+    "title": "Wildfire evacuation — when to leave",
+    "content": "Leave immediately when ordered — do not wait. Early evacuation is always safer than late evacuation. Take your emergency kit, medications, and important documents. Close all windows and doors but leave them unlocked for firefighters. Turn off gas at the meter. Remove flammable items from around your home (furniture, doormats, wooden items). Wear long sleeves, long pants, and sturdy shoes — synthetic fabrics melt. Drive with headlights on and windows up. If trapped in a vehicle: park away from vegetation in a cleared area, turn off engine, lie on floor below window level, cover with wool blanket. Wildfires can travel faster than a person can run — do not delay."
+  },
+  {
+    "id": "wild-002",
+    "scenario": "Wildfire",
+    "title": "Wildfire smoke — protecting yourself",
+    "content": "Stay indoors with windows and doors closed. Use an N95 or P2 respirator mask if going outside is unavoidable — cloth masks, surgical masks, and bandanas do not filter fine particles (PM2.5) effectively. Avoid physical exertion in smoky air — it increases the amount of smoke inhaled. Set air conditioning to recirculate mode (not fresh air intake). Use air purifiers with HEPA filters indoors. Vulnerable groups (elderly, children, pregnant, people with asthma or heart disease) should evacuate early or go to a clean air shelter. Symptoms of smoke inhalation: persistent coughing, shortness of breath, chest pain, headache, stinging eyes. Seek medical care if symptoms are severe or do not improve when indoors."
+  },
+  {
+    "id": "wild-003",
+    "scenario": "Wildfire",
+    "title": "Wildfire approaching home — last-minute actions",
+    "content": "If you cannot evacuate and fire is approaching: close all windows and doors (leave unlocked). Remove curtains and flammable furniture from near windows. Fill sinks, bathtubs, and buckets with water for firefighters. Wet towels and place under doors. Turn on all interior and exterior lights so firefighters can see your house through smoke. Stay inside away from exterior walls. Monitor fire's approach from a window. If fire enters home: get out immediately through the safest exit. After fire passes: check for embers and spot fires on roof and in gutters. Patrol for several hours — embers can smoulder for hours before igniting."
+  },
+  {
+    "id": "wild-004",
+    "scenario": "Wildfire",
+    "title": "Trapped by wildfire on foot",
+    "content": "If trapped: look for a body of water (pond, river, stream) and get in — submerge as much as possible. If no water: find a depression, ditch, or low area with little vegetation. Clear area of flammable material if time allows. Lie face down and cover yourself with soil or wet clothing. Cover nose and mouth with a wet cloth to filter smoke. Stay low — heat and smoke rise. Do not run uphill — fire travels faster uphill than on flat ground. After fire passes: move to a burned area — it will not burn again. Signal for rescue with a whistle or mirror. Drink water if available — dehydration is a serious risk."
+  },
+  {
+    "id": "bliz-001",
+    "scenario": "Blizzard / Extreme Cold",
+    "title": "Hypothermia — recognition and treatment",
+    "content": "Hypothermia occurs when core body temperature drops below 35°C. Mild: uncontrolled shivering, slurred speech, loss of coordination, confusion. Severe: shivering stops (dangerous sign — body has lost ability to rewarm), unconsciousness, very slow pulse. Treatment: move to warm shelter immediately. Remove wet clothing — wet clothing loses 90% of its insulating value. Warm the core first (chest, neck, groin, armpits) with blankets, warm water bottles wrapped in cloth, or body heat. Do not rub limbs — it drives cold blood to the core. Give warm sweet drinks if conscious and able to swallow. Do not give alcohol — it causes heat loss. Seek emergency medical care for moderate or severe hypothermia. Handle gently — cold hearts are prone to dangerous rhythms."
+  },
+  {
+    "id": "bliz-002",
+    "scenario": "Blizzard / Extreme Cold",
+    "title": "Stranded in vehicle during blizzard",
+    "content": "Stay in the vehicle — it provides shelter and is far easier for rescuers to find than a person on foot. Run engine for 10 minutes per hour for heat — check that exhaust pipe is clear of snow before running engine to prevent carbon monoxide poisoning. Keep a window slightly open on the downwind side for ventilation. Turn on hazard lights when running engine. Tie a bright cloth to the antenna or door handle. Move arms and legs regularly to maintain circulation. Do not leave the vehicle unless a building is clearly visible and very close. Eat and drink — food generates body heat. Insulate yourself from the metal floor with floor mats or clothing."
+  },
+  {
+    "id": "bliz-003",
+    "scenario": "Blizzard / Extreme Cold",
+    "title": "Frostbite — recognition and treatment",
+    "content": "Frostbite occurs when skin and underlying tissue freezes. Affected areas: fingers, toes, nose, ears, cheeks. Signs: numbness, white or grayish-yellow skin, skin feels unusually firm or waxy. Severe frostbite: blisters, black skin (tissue death). Treatment: get to warm shelter. Do not rub the affected area — rubbing causes ice crystals to damage tissue. Immerse in warm water (37–40°C — comfortable to touch, not hot) for 20–30 minutes. Do not use direct heat (fire, heating pad, hot water bottle). Give warm drinks if conscious. Do not walk on frostbitten feet if avoidable. Seek medical care immediately for severe frostbite. Critical: do not thaw if there is any risk of refreezing — refreezing causes far worse damage than leaving frozen."
+  },
+  {
+    "id": "bliz-004",
+    "scenario": "Blizzard / Extreme Cold",
+    "title": "Lost in snow — survival priorities",
+    "content": "STOP: Stop, Think, Observe, Plan — do not panic or exhaust yourself. Stay put if you have shelter or can build one — moving in a blizzard is dangerous. Signal for help: three of anything is the universal distress signal (three whistle blasts, three fires, three shouts). Build shelter: snow cave (dig into a snowdrift, entrance lower than sleeping area to trap warm air), lean-to, or debris hut. Insulate yourself from the ground — ground conducts heat away from your body 25 times faster than air. Stay dry — wet clothing is life-threatening in cold. Melt snow for water — do not eat snow directly as it lowers body temperature. Conserve energy. Stay visible to rescuers with bright clothing or signals."
+  },
+  {
+    "id": "power-001",
+    "scenario": "Power Outage",
+    "title": "Generator safety",
+    "content": "Never run a generator indoors, in a garage, basement, or near windows and doors — carbon monoxide is odourless, colourless, and lethal. Place generator at least 6 metres from the building and downwind. Install battery-operated CO detectors in sleeping areas. Do not connect generator directly to home wiring without a transfer switch — back-feed can electrocute utility workers. Turn off generator before refuelling and let it cool. Do not overload — check the wattage rating. Keep generator dry — do not use in rain without a proper canopy. Store fuel in approved containers away from living areas. Have generator serviced annually."
+  },
+  {
+    "id": "power-002",
+    "scenario": "Power Outage",
+    "title": "Food safety during power outage",
+    "content": "Refrigerator keeps food safe for 4 hours if door remains closed. Freezer keeps food safe for 24–48 hours if full and unopened (half-full freezer: 24 hours). Use a food thermometer — discard any refrigerated food that has been above 4°C for more than 2 hours. When in doubt, throw it out — food poisoning is not worth the risk. Safe without refrigeration: commercially canned goods, dried foods, peanut butter, crackers, dried fruit, nuts. Boil water before drinking if water supply may be compromised. Do not taste food to determine if it is safe — many dangerous bacteria have no smell or taste. Keep coolers with ice for essential medications and critical foods."
+  },
+  {
+    "id": "power-003",
+    "scenario": "Power Outage",
+    "title": "Heating without power in winter",
+    "content": "Close off rooms you are not using — concentrate heat in one room. Use a fireplace or wood stove only if properly vented and maintained. Never use a gas stove, oven, outdoor grill, or charcoal for heating — all produce carbon monoxide. Dress in layers: base layer (wool or synthetic, not cotton), insulating layer, outer layer. Eat regularly — digesting food generates body heat. Drink warm fluids. Do light exercise to stay warm. Close blinds and curtains at night to retain heat; open south-facing windows during day for solar warmth. Stay in one room with others — body heat helps. If temperature drops dangerously (below 10°C indoors), go to a public warming centre, hotel, or stay with family."
+  },
+  {
+    "id": "power-004",
+    "scenario": "Power Outage",
+    "title": "Medical equipment dependent on power",
+    "content": "If you depend on electric medical equipment (ventilator, oxygen concentrator, dialysis, insulin pump): have a backup power source (battery backup, generator). Keep backup batteries fully charged at all times. Have a manual backup if possible (manual wheelchair, hand-crank suction). Register with your power company as a priority customer — many utilities have medical priority lists. Know where to go for power: hospital, clinic, friend's house, or public shelter. Keep phone charged — have a car charger as backup. Have a written plan for extended outages. In an extended outage, contact emergency services or go to hospital. Keep a 7-day supply of medications."
+  },
+  {
+    "id": "shelter-001",
+    "scenario": "Shelter",
+    "title": "Emergency shelter-in-place",
+    "content": "Choose an interior room with few windows on the highest floor (for flooding) or lowest floor (for tornadoes, chemical hazards). Seal gaps under doors with wet towels or tape. Turn off HVAC systems, fans, and air conditioning. Have water (4 litres per person per day), food for 72 hours, medications, flashlight with extra batteries, battery-powered radio, first aid kit, and phone charger. Monitor official emergency broadcasts. Do not leave until authorities give the all-clear. Keep pets inside. Have a manual can opener. Fill bathtubs with water for flushing toilets if water supply may be interrupted. Keep a list of emergency contacts written on paper in case phone battery dies."
+  },
+  {
+    "id": "shelter-002",
+    "scenario": "Shelter",
+    "title": "Finding emergency shelter when displaced",
+    "content": "Contact emergency services or local authorities for shelter locations. Check with religious organisations, community centres, schools, and Red Cross/Red Crescent. If no formal shelter is available: find a safe, dry place out of wind and rain. Public buildings (libraries, hospitals, transit stations, 24-hour businesses) provide temporary warmth and safety. Avoid isolated areas. Stay visible. Keep belongings secure and close to you. If sleeping rough: insulate from the ground (ground draws heat away faster than cold air), stay dry, avoid alcohol (causes heat loss despite feeling warm), sleep in groups if possible for safety and warmth. Register your location with family or authorities so you can be found."
+  },
+  {
+    "id": "shelter-003",
+    "scenario": "Shelter",
+    "title": "Improvised shelter in wilderness",
+    "content": "Choose location: flat, dry, away from water (flood risk), protected from wind, not under dead trees. Types of improvised shelter: Lean-to (branches leaned against a fallen tree or rope between trees, covered with branches and leaves), debris hut (small A-frame covered with leaves — smaller is warmer), snow cave (dig into a snowdrift, entrance lower than sleeping area to trap warm air). Insulate floor with branches, dry leaves, or pine needles — at least 15 cm thick. Make shelter small enough to retain body heat. Mark location with bright material for rescuers. Build a fire if safe, you know how, and have the means. Signal for rescue: three fires in a triangle, mirror flashes, bright clothing spread on the ground."
+  },
+  {
+    "id": "heat-001",
+    "scenario": "Extreme Heat",
+    "title": "Heat wave survival — practical actions",
+    "content": "Heat kills more people than any other weather event. During a heat wave: stay in air-conditioned spaces as much as possible. If no air conditioning: go to a public cooling centre, shopping centre, or library. Keep blinds and curtains closed during the day to block solar heat. Open windows at night when outdoor temperature drops below indoor temperature. Drink water regularly — do not wait until thirsty. Avoid alcohol, caffeine, and sugary drinks — they increase dehydration. Wear loose, light-coloured, lightweight clothing. Avoid outdoor activity between 11am and 3pm. Check on elderly neighbours, young children, and people with chronic illness daily — they are most vulnerable. Never leave children or pets in parked vehicles — temperatures can reach lethal levels within minutes."
+  },
+  {
+    "id": "heat-002",
+    "scenario": "Extreme Heat",
+    "title": "Heat cramps and heat exhaustion",
+    "content": "Heat cramps: painful muscle spasms during or after exercise in heat. Treatment: stop activity, move to cool area, drink water or electrolyte solution, gently stretch and massage the cramped muscle. Do not resume activity for several hours. Heat exhaustion (more serious): heavy sweating, cool pale clammy skin, rapid weak pulse, nausea, headache, dizziness, muscle cramps, weakness, fainting. Treatment: move to cool shaded area immediately. Loosen or remove excess clothing. Apply cool wet cloths to skin, especially neck, armpits, and groin. Fan the person. Give cool water to sip if conscious. Seek medical care if: vomiting occurs, symptoms last more than 1 hour, confusion develops, or person loses consciousness — these indicate heat stroke."
+  },
+  {
+    "id": "mental-001",
+    "scenario": "Mental Health Crisis",
+    "title": "Supporting someone in a mental health crisis",
+    "content": "A mental health crisis includes panic attacks, severe anxiety, psychotic episodes, or suicidal thoughts. Approach calmly and without judgment. Introduce yourself and ask 'Are you okay?' Listen actively — do not interrupt, minimise, or offer quick solutions. Give the person space and time. Speak in a calm, slow, clear voice. Do not argue with or challenge their perceptions. Remove potential hazards from the immediate environment if safe to do so. Ask directly about suicidal thoughts — asking does not plant the idea and allows you to help. If they express intent to harm themselves or others: call emergency services. Stay with them until help arrives. Do not leave someone alone who is in immediate danger."
+  },
+  {
+    "id": "mental-002",
+    "scenario": "Mental Health Crisis",
+    "title": "Panic attack — how to help",
+    "content": "A panic attack is an intense surge of fear with physical symptoms. Signs: rapid heartbeat, shortness of breath, chest pain, dizziness, trembling, sweating, feeling of unreality or losing control. It is not life-threatening but feels terrifying. How to help: stay calm yourself — your calm is contagious. Speak slowly and reassuringly: 'You are safe, this will pass.' Guide them to a quiet, less stimulating environment. Encourage slow, controlled breathing: breathe in for 4 counts, hold for 2, breathe out for 6 counts. Do not say 'calm down' or 'there is nothing to worry about' — this invalidates their experience. Do not leave them alone. Most panic attacks peak within 10 minutes and resolve within 20–30 minutes. Seek medical care if: first panic attack, chest pain is severe, or symptoms do not resolve."
+  },
+  {
+    "id": "mental-003",
+    "scenario": "Mental Health Crisis",
+    "title": "Acute stress after a traumatic event",
+    "content": "After a traumatic event (disaster, accident, violence), people may experience acute stress: shock, disbelief, numbness, confusion, intense fear, anger, or grief. These are normal responses to abnormal events. WHO Psychological First Aid (PFA) approach: LOOK — observe who needs support. LISTEN — approach calmly, introduce yourself, ask what they need. LINK — help meet basic needs (safety, water, shelter), connect with family. What helps: presence and practical support, not forcing people to talk, giving accurate information, helping restore routine. What does not help: forcing people to relive the event, giving false reassurance, making decisions for them. Most people recover naturally. Seek professional mental health support if symptoms persist beyond 4 weeks or significantly impair daily functioning."
+  },
+  {
+    "id": "road-001",
+    "scenario": "Road Emergency",
+    "title": "Vehicle accident — immediate response",
+    "content": "Check for your own safety first. Turn on hazard lights. If safe to do so: turn off engine, apply handbrake. Call emergency services immediately — give exact location, number of vehicles, estimated number of injured. Do not move injured people unless there is immediate danger (fire, oncoming traffic) — moving someone with a spinal injury can cause paralysis. If someone is unconscious but breathing: leave in position found unless airway is blocked. If not breathing: begin CPR. Control severe bleeding with direct pressure. Keep injured people warm with a blanket. Set up warning triangles or flares at least 50 metres behind the accident. Keep bystanders back. Do not give food or water to injured people — they may need surgery."
+  },
+  {
+    "id": "road-002",
+    "scenario": "Road Emergency",
+    "title": "Vehicle fire",
+    "content": "If you see smoke or flames from your vehicle: pull over immediately and turn off the engine. Get all occupants out of the vehicle quickly — do not stop to collect belongings. Move at least 30 metres away from the vehicle and stay upwind. Call emergency services. Do not open the bonnet/hood if fire is coming from the engine — oxygen will intensify the fire. Do not return to the vehicle for any reason — fuel tanks can explode. If fire is very small and you have a fire extinguisher and training: use it from a safe distance. If a tyre catches fire: do not approach — burning rubber is toxic and tyres can explode."
+  },
+  {
+    "id": "road-003",
+    "scenario": "Road Emergency",
+    "title": "Tyre blowout while driving",
+    "content": "A tyre blowout causes sudden loss of control. Do NOT brake hard — this causes skidding. Grip the steering wheel firmly with both hands. Ease off the accelerator gradually. Steer straight — do not overcorrect. Allow the vehicle to slow naturally. Gently apply the brake only when the vehicle is under control and speed is reduced. Steer to the side of the road and stop safely. Turn on hazard lights. Get all occupants out of the vehicle and away from traffic. Set up warning triangles or flares behind the vehicle. Call for assistance. Never change a tyre on a busy road — wait for a safe location or professional help."
+  },
+  {
+    "id": "water-001",
+    "scenario": "Water Emergency",
+    "title": "Drinking water safety in emergency",
+    "content": "In any emergency where water supply may be compromised: boil water vigorously for 1 minute (3 minutes at altitude above 2000 metres) before drinking, cooking, or brushing teeth. If boiling is not possible: use water purification tablets (iodine or chlorine) following package instructions. Alternatively: add 2 drops of unscented household bleach (5% chlorine) per litre of clear water, stir, and wait 30 minutes before drinking. For cloudy water: filter through clean cloth first, then treat. Avoid drinking from rivers, streams, or standing water without treatment. Store treated water in clean, covered containers. Signs of waterborne illness: diarrhoea, nausea, vomiting, stomach cramps — seek medical care if severe or bloody."
+  },
+  {
+    "id": "water-002",
+    "scenario": "Water Emergency",
+    "title": "Dehydration — recognition and treatment",
+    "content": "Dehydration is dangerous and worsens rapidly in heat, illness, or physical exertion. Signs: dark yellow urine (pale yellow is normal), dry mouth, headache, dizziness, fatigue, decreased urination. Severe: rapid heartbeat, rapid breathing, sunken eyes, confusion, fainting. Treatment: drink water or oral rehydration solution (ORS). ORS recipe: 1 litre clean water, 6 teaspoons sugar, half teaspoon salt — stir until dissolved. Give small sips frequently rather than large amounts at once. For children: give ORS after every loose stool. Seek medical care for: severe dehydration, inability to keep fluids down, blood in stool, high fever, confusion, or no urination for 8+ hours. Do not give sports drinks to infants."
+  },
+  {
+    "id": "general-001",
+    "scenario": "general",
+    "title": "Emergency kit essentials — 72-hour bag",
+    "content": "Every household should maintain a 72-hour emergency kit. Water: 4 litres per person per day (minimum). Food: non-perishable items (canned goods, dried food, energy bars, peanut butter). Manual can opener. Battery or hand-crank radio. Torch and extra batteries. First aid kit with manual. 7-day supply of prescription medications. Copies of important documents (ID, insurance, medical records) in waterproof bag. Cash in small denominations. Whistle. Dust masks (N95). Plastic sheeting and duct tape. Moist towelettes and hand sanitiser. Garbage bags. Wrench or pliers to turn off utilities. Local maps (paper). Phone charger and power bank. Warm blanket. Change of clothes and sturdy shoes. Baby supplies if needed. Pet food and supplies."
+  },
+  {
+    "id": "general-002",
+    "scenario": "general",
+    "title": "Calling emergency services — what to say",
+    "content": "When calling emergency services: stay calm and speak clearly. State your location first — this is the most important information. Give: exact address or nearest landmark and cross street, city or area, floor or apartment number if relevant. Describe the emergency: what happened, how many people are injured, any immediate dangers (fire, gas leak). Follow the dispatcher's instructions exactly. Do not hang up until told to — dispatchers can provide life-saving instructions and trace your location. If you cannot speak: leave the line open, press a key repeatedly, or use emergency text services if available. 112 is the international emergency number accessible in most countries even without a SIM card."
+  },
+  {
+    "id": "general-003",
+    "scenario": "general",
+    "title": "Recovery position",
+    "content": "Use for an unconscious person who is breathing. This prevents choking on vomit and keeps the airway open. How to do it: kneel beside them. Place the arm nearest you at a right angle to their body, elbow bent, palm facing up. Bring their far arm across their chest and hold the back of their hand against their near cheek. Pull up their far knee so the foot is flat on the ground. Roll them towards you onto their side by pulling the bent knee. Adjust the upper hand under their cheek to keep head tilted back. Check that airway is open — tilt head back gently, lift chin. Monitor breathing every minute. If breathing stops, begin CPR. Do not use recovery position if spinal injury is suspected — leave in position found."
+  },
+  {
+    "id": "general-004",
+    "scenario": "general",
+    "title": "Emergency contact numbers — international",
+    "content": "Universal emergency number: 112 works in most countries worldwide, including all EU countries, India, and many others. It is accessible even without a SIM card on most mobile phones. Other widely used numbers: 999 (UK, Ireland, Bangladesh, Hong Kong), 000 (Australia), 111 (New Zealand), 110 (China, Japan police), 119 (Japan, South Korea fire/ambulance), 117 (Switzerland police), 118 (Italy ambulance), 15 (France SAMU medical emergency). When travelling: save the local emergency number in your phone. In any country, trying 112 first is a reliable starting point. Always give your location before describing the emergency."
+  },
+  {
+    "id": "general-005",
+    "scenario": "general",
+    "title": "What to do in the first 60 seconds of any emergency",
+    "content": "1. STOP — do not panic. Take one breath. Panic causes poor decisions. 2. ASSESS — is the scene safe for you to enter? Do not become a second victim — a rescuer who is injured cannot help anyone. 3. CALL — dial emergency services immediately. Give location first, then situation. 4. ACT — apply the most urgent intervention: stop severe bleeding, begin CPR, move person from immediate danger. 5. STAY — remain on the line with emergency services and follow their instructions exactly. Do not move an injured person unless there is immediate danger (fire, rising water, structural collapse). Keep bystanders back — crowds hinder rescue. Note the time the emergency started — this is critical for medical treatment decisions."
+  },
+  {
+    "id": "general-006",
+    "scenario": "general",
+    "title": "Family emergency plan — how to prepare",
+    "content": "Every family should have a written emergency plan. Include: two meeting points (one near home, one further away in case you cannot return home). An out-of-area contact person everyone can call — it is often easier to reach someone far away during a local disaster. Each family member's emergency contacts, medical conditions, and medications written down. Know how to turn off utilities (gas, water, electricity) at the main switches. Practice evacuation routes from your home — two ways out of every room. Agree on what to do if family members are at different locations (school, work) when an emergency occurs. Keep a copy of your plan in your emergency kit and share it with all family members including children."
+  },
+  {
+    "id": "abudhabi-001",
+    "scenario": "general",
+    "title": "Abu Dhabi emergency information sources — NCEMA and MOD",
+    "content": "In Abu Dhabi and the UAE, rely only on official government sources during any emergency or crisis. Key sources: NCEMA (National Emergency Crisis and Disasters Management Authority) — Instagram: @ncemauae, website: ncema.gov.ae. UAE Ministry of Defence (MOD) — Instagram: @modgovae. UAE Government portal: u.ae/en/information-and-services/justice-safety-and-the-law/handling-emergencies. Do not share or act on unverified social media rumours. Emergency hotline UAE: 999 (police), 998 (ambulance), 997 (fire), 996 (coast guard)."
+  },
+  {
+    "id": "urban-001",
+    "scenario": "Urban Survival",
+    "title": "Stuck in elevator during power outage",
+    "content": "Do not panic — elevators are designed to be safe even when power fails. Do NOT try to force doors open or climb out — this can lead to fatal falls. Press the alarm button or use the emergency phone inside the elevator to call for help. If no response, call emergency services from your mobile phone and provide building name and floor estimate. Sit or stand calmly and conserve energy. Elevators have ventilation — you will not run out of air. Use your phone flashlight if needed. If with others: reassure them — panic can worsen the situation. Wait for trained personnel to rescue you. Never attempt self-rescue."
+  },
+  {
+    "id": "urban-002",
+    "scenario": "Urban Survival",
+    "title": "Crowd crush / stampede",
+    "content": "In a dense crowd, the danger is pressure, not trampling. Do not resist the crowd force directly — move with it at an angle toward the edge. Keep your arms up in front of your chest to create breathing space. Stay on your feet — falling is the biggest risk. If you fall: curl into a ball, protect your head and neck, and try to get up quickly using a rolling motion. Avoid walls, barriers, and bottlenecks where pressure increases. Move diagonally out of the crowd when possible. Do not pick up dropped items. Shout and signal for help if needed."
+  },
+  {
+    "id": "urban-003",
+    "scenario": "Urban Survival",
+    "title": "Trapped under debris after collapse",
+    "content": "Stay calm and conserve energy. Do not shout continuously — it wastes energy and oxygen. Instead, make noise at intervals (tap on pipes, walls, or metal) to signal rescuers. Cover your mouth and nose with cloth to avoid inhaling dust. Avoid unnecessary movement — debris may be unstable. If you have a phone: use text messages instead of calls to conserve battery. Turn off phone between use. Listen for rescuers and respond when you hear them. If possible, create a small air space around your face. Do not light matches or lighters — there may be gas leaks."
+  },
+  {
+    "id": "water-003",
+    "scenario": "Water Emergency",
+    "title": "Drowning — immediate rescue actions",
+    "content": "Drowning is silent — people cannot shout or wave effectively. If someone is struggling in water: do NOT jump in unless trained — many rescuers drown. Use 'reach, throw, go': reach with a stick or object, throw a flotation device (rope, bottle, buoy), go into water only as a last resort. Once out of water: check breathing immediately. If not breathing: begin CPR. Remove wet clothing and keep the person warm. Even if recovered, seek medical care — delayed drowning (secondary drowning) can occur hours later due to water in lungs."
+  },
+  {
+    "id": "home-001",
+    "scenario": "Home Emergency",
+    "title": "Child choking — immediate response",
+    "content": "If a child is choking and cannot breathe, cry, or cough: act immediately. For children over 1 year: give 5 back blows between shoulder blades, then 5 abdominal thrusts (Heimlich maneuver). Alternate until object is expelled or child becomes unconscious. For infants under 1 year: 5 back blows followed by 5 chest thrusts using two fingers. If unconscious: begin CPR and check airway before breaths. Do not blindly sweep mouth — you may push object deeper. Call emergency services immediately."
+  },
+  {
+    "id": "home-002",
+    "scenario": "Home Emergency",
+    "title": "Severe bleeding — life-threatening hemorrhage",
+    "content": "Severe bleeding can kill within minutes. Apply firm direct pressure immediately using cloth, bandage, or hand. If bleeding continues: apply more pressure — do not remove initial dressing. Elevate limb if possible. If bleeding is uncontrollable: apply a tourniquet above the wound (between wound and heart). Tighten until bleeding stops. Note the time applied. Do not loosen once applied. Keep the person lying down and warm. Call emergency services immediately."
+  },
+  {
+    "id": "urban-004",
+    "scenario": "Urban Survival",
+    "title": "ATM robbery or street threat",
+    "content": "Your safety is more important than money. If threatened: do not resist — comply calmly. Avoid sudden movements. Do not make eye contact that may be perceived as confrontation. Hand over requested items. Try to observe details discreetly (appearance, direction of escape) without staring. Once safe: move to a secure location and call police immediately. Do not chase the attacker."
+  },
+  {
+    "id": "health-001",
+    "scenario": "Medical Emergency",
+    "title": "Heart attack — early recognition",
+    "content": "Symptoms: chest pressure or pain (may spread to arm, jaw, or back), shortness of breath, sweating, nausea, dizziness. Women may have atypical symptoms like fatigue or indigestion. Act immediately — time saves heart muscle. Call emergency services. Chew aspirin (if not allergic) while waiting. Keep the person calm and seated. Do not let them walk. If unconscious and not breathing: begin CPR."
+  },
+  {
+    "id": "health-002",
+    "scenario": "Medical Emergency",
+    "title": "Stroke — FAST recognition",
+    "content": "Stroke requires immediate action. Use FAST: Face — drooping on one side. Arms — weakness or inability to raise both arms. Speech — slurred or strange speech. Time — call emergency services immediately. Do not wait. Note the time symptoms started — critical for treatment. Keep the person calm and seated. Do not give food or drink."
+  },
+  {
+    "id": "survival-001",
+    "scenario": "Survival",
+    "title": "No food situation — short-term survival",
+    "content": "The human body can survive weeks without food but only days without water. Prioritize water first. Conserve energy — avoid unnecessary movement. Do not eat unknown plants or animals unless trained — many are toxic. Small amounts of food should be spaced out. Avoid eating spoiled food — illness worsens survival chances. Focus on shelter and water first."
+  },
+  {
+    "id": "survival-002",
+    "scenario": "Survival",
+    "title": "Sleeping safely in unsafe environments",
+    "content": "If forced to sleep in unsafe or public areas: choose well-lit locations with some human presence but not isolated. Avoid hidden or enclosed spaces where escape is difficult. Keep belongings close and secured. Sleep in short intervals rather than deep sleep if safety is uncertain. Keep shoes on for quick movement. Identify exits before resting."
+  },
+  {
+    "id": "tech-001",
+    "scenario": "Technology Safety",
+    "title": "Phone battery conservation in emergency",
+    "content": "Enable low power mode immediately. Reduce screen brightness. Turn off background apps, Bluetooth, and Wi-Fi if not needed. Use airplane mode when not actively communicating. Prefer text messages over calls — they use less battery. Keep phone warm in cold environments — cold drains battery faster. Use power bank sparingly. Prioritize essential communication only."
+  },
+  {
+    "id": "urban-005",
+    "scenario": "Urban Survival",
+    "title": "Stuck in traffic during emergency",
+    "content": "Stay calm and do not abandon your vehicle unless absolutely necessary. Lock doors. Keep windows slightly open for ventilation. Listen to official radio updates. If evacuation is ordered and traffic is blocked: follow directions from authorities — do not create your own route. Keep fuel conserved. If unsafe (fire, flood): leave vehicle and move to safety."
+  },
+  {
+    "id": "prep-001",
+    "scenario": "general",
+    "title": "Home safety audit — monthly checklist",
+    "content": "Conduct a monthly home safety check. Test smoke alarms and carbon monoxide detectors. Check fire extinguishers are accessible and within expiry date. Inspect electrical cords for damage. Ensure exits are clear and not blocked. Verify emergency kit is stocked and items are not expired. Identify and remove tripping hazards. Confirm all household members know emergency exits and meeting points."
+  },
+  {
+    "id": "prep-002",
+    "scenario": "general",
+    "title": "Emergency contact planning",
+    "content": "Maintain a written and digital list of emergency contacts including family, neighbors, and essential services. Share your emergency plan with trusted contacts. Ensure all family members know how to reach each other if separated. Memorize at least one contact number in case your phone is unavailable."
+  },
+  {
+    "id": "prep-003",
+    "scenario": "general",
+    "title": "Personal emergency kit preparation",
+    "content": "Prepare a personal emergency kit that you can grab quickly. Include water, non-perishable food, flashlight, batteries, power bank, first aid kit, medications, whistle, and copies of important documents. Keep it in an accessible location. Review and update contents every 3–6 months."
+  },
+  {
+    "id": "prep-004",
+    "scenario": "general",
+    "title": "Family emergency drill",
+    "content": "Practice emergency scenarios with your household. Conduct drills for fire evacuation, shelter-in-place, and communication during separation. Assign roles if needed (who grabs kit, who assists children or elderly). Repeat drills every few months to build muscle memory and reduce panic during real emergencies."
+  },
+  {
+    "id": "prep-005",
+    "scenario": "general",
+    "title": "Situational awareness habit",
+    "content": "Always be aware of your surroundings. Identify exits when entering buildings. Note potential hazards such as blocked exits, fire risks, or unsafe structures. Avoid distractions like excessive phone use in unfamiliar or crowded environments. Trust your instincts — if something feels unsafe, leave the area."
+  },
+  {
+    "id": "fire-prep-001",
+    "scenario": "Fire",
+    "title": "Fire prevention at home",
+    "content": "Do not overload electrical outlets. Keep flammable materials away from heat sources. Never leave cooking unattended. Install smoke detectors in sleeping areas and test them regularly. Keep a fire extinguisher in key areas like kitchen and garage. Educate all household members on how to use it."
+  },
+  {
+    "id": "flood-prep-001",
+    "scenario": "Flood",
+    "title": "Flood preparedness measures",
+    "content": "Know if you live in a flood-prone area. Keep valuables and important documents in waterproof containers. Elevate electrical appliances and wiring above potential flood levels. Prepare sandbags if needed. Plan evacuation routes to higher ground. Avoid storing hazardous materials where floodwater can spread them."
+  },
+  {
+    "id": "quake-prep-001",
+    "scenario": "Earthquake",
+    "title": "Earthquake preparedness at home",
+    "content": "Secure heavy furniture and appliances to walls to prevent tipping. Store heavy items on lower shelves. Identify safe spots in each room (under sturdy tables, away from windows). Keep emergency supplies accessible. Practice 'Drop, Cover, and Hold On' with family members."
+  },
+  {
+    "id": "health-prep-001",
+    "scenario": "Medical Emergency",
+    "title": "Basic first aid readiness",
+    "content": "Learn basic first aid and CPR techniques. Keep a well-stocked first aid kit at home, in your car, and workplace. Regularly check expiration dates of medications and supplies. Know how to manage bleeding, choking, burns, and cardiac emergencies."
+  },
+  {
+    "id": "travel-prep-001",
+    "scenario": "Travel Safety",
+    "title": "Travel risk preparation",
+    "content": "Before traveling, research local risks such as weather, terrain, and infrastructure. Share your itinerary with someone you trust. Carry essential items including water, snacks, portable charger, and copies of documents. Avoid traveling alone in unfamiliar or high-risk areas."
+  },
+  {
+    "id": "urban-prep-001",
+    "scenario": "Urban Survival",
+    "title": "Daily carry essentials",
+    "content": "Carry essential items daily such as a charged phone, small flashlight, identification, emergency contact information, and some cash. Consider carrying a whistle or personal alarm. Keep your phone battery above 30% whenever possible."
+  },
+  {
+    "id": "water-prep-001",
+    "scenario": "Water Emergency",
+    "title": "Safe water storage",
+    "content": "Store clean drinking water in sealed containers. Rotate stored water every 6–12 months. Keep water purification tablets or filtration methods available. Avoid relying on a single water source."
+  },
+  {
+    "id": "heat-prep-001",
+    "scenario": "Extreme Heat",
+    "title": "Heatwave preparation",
+    "content": "Ensure access to cooling methods such as fans or air conditioning. Stock up on water and electrolyte solutions. Plan cool areas to stay during peak heat hours. Wear light clothing and avoid direct sunlight during hottest parts of the day."
+  },
+  {
+    "id": "cold-prep-001",
+    "scenario": "Blizzard / Extreme Cold",
+    "title": "Cold weather preparedness",
+    "content": "Keep warm clothing, blankets, and emergency heating options ready. Insulate your home to retain heat. Stock non-perishable food and water. Ensure vehicles are equipped with winter emergency kits including blankets and extra clothing."
+  },
+  {
+    "id": "power-prep-001",
+    "scenario": "Power Outage",
+    "title": "Power outage preparation",
+    "content": "Keep flashlights and spare batteries accessible. Charge devices regularly. Store backup power sources such as power banks. Keep non-electric cooking options if safe to use. Plan alternative lighting sources."
+  },
+  {
+    "id": "security-prep-001",
+    "scenario": "Personal Safety",
+    "title": "Personal security awareness",
+    "content": "Avoid predictable routines in unfamiliar environments. Stay in well-lit areas. Inform someone of your whereabouts when going out. Avoid displaying valuables. Keep emergency contacts easily accessible."
+  },
+  {
+    "id": "digital-prep-001",
+    "scenario": "Technology Safety",
+    "title": "Digital preparedness",
+    "content": "Keep offline copies of important documents on your device. Ensure critical apps work offline if possible. Regularly update your device and security settings. Enable emergency access features such as medical ID and emergency SOS."
+  },
+  {
+    "id": "mental-prep-001",
+    "scenario": "Mental Health",
+    "title": "Mental preparedness for emergencies",
+    "content": "Train yourself to pause and think before reacting. Practice breathing techniques to stay calm under stress. Build confidence through drills and knowledge. Understand that panic reduces decision-making ability."
+  },
+  {
+    "id": "kids-prep-001",
+    "scenario": "Family Safety",
+    "title": "Teaching children emergency readiness",
+    "content": "Teach children basic safety rules, how to recognize danger, and how to ask for help. Ensure they know their name, address, and how to contact guardians. Practice simple emergency actions with them regularly."
+  },
+  {
+    "id": "elderly-prep-001",
+    "scenario": "Family Safety",
+    "title": "Supporting elderly preparedness",
+    "content": "Ensure elderly individuals have easy access to medications, emergency contacts, and mobility aids. Simplify emergency plans. Conduct regular check-ins and ensure they understand emergency procedures."
+  }
+]
