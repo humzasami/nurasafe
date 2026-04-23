@@ -1,5 +1,9 @@
 # NuraSafe — Private Offline AI Safety Companion
 
+<p align="center">
+  <img src="docs/images/banner.png" alt="NuraSafe banner" width="100%" />
+</p>
+
 [![App Store](https://img.shields.io/badge/App%20Store-Free%20Download-blue?logo=apple)](https://apps.apple.com/app/id6761926910)
 [![Platform](https://img.shields.io/badge/Platform-iOS%2018.5+-lightgrey?logo=apple)](https://apps.apple.com/app/id6761926910)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
@@ -21,22 +25,11 @@ NuraSafe is a fully offline AI safety companion for iPhone. It runs a 3-billion 
 
 ## 📸 Screenshots
 
-<!-- Add screenshots by placing PNG files in docs/images/ and updating the paths below.
-     Recommended: export from Xcode Simulator (Device → Screenshot) at iPhone 15 Pro size.
-     Example workflow:
-       mkdir -p docs/images
-       cp ~/Desktop/screenshot1.png docs/images/chat.png
-     Then update the img tags below. -->
-
-> Screenshots coming soon. To add your own, see the instructions in the comment above.
-
-<!-- Uncomment and fill in once you have screenshots:
 <p align="center">
-  <img src="docs/images/chat.png" width="220" alt="Chat screen" />
+  <img src="docs/images/chat.png" width="220" alt="Chat screen — offline AI assistant" />
   <img src="docs/images/emergency-modes.png" width="220" alt="Emergency mode selector" />
-  <img src="docs/images/fire-mode.png" width="220" alt="Fire mode active" />
+  <img src="docs/images/nuclear-mode.png" width="220" alt="Nuclear / Radiation mode active" />
 </p>
--->
 
 ---
 
