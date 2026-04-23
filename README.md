@@ -27,11 +27,9 @@ NuraSafe is a fully offline AI safety companion for iPhone. It runs a 3-billion 
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="Docs/images/chat.png" width="30%" alt="Chat screen — offline AI assistant" />
-  &nbsp;
-  <img src="Docs/images/emergency-modes.png" width="30%" alt="Emergency mode selector" />
-  &nbsp;
-  <img src="Docs/images/nuclear-mode.png" width="30%" alt="Nuclear / Radiation mode active" />
+  <img src="Docs/images/chat.png" width="40%" alt="Chat screen — offline AI assistant" />
+  &nbsp;&nbsp;
+  <img src="Docs/images/nuclear-mode.png" width="40%" alt="Nuclear / Radiation mode active" />
 </p>
 
 ---
