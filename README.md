@@ -1,4 +1,5 @@
 # NuraSafe — Private Offline AI Safety Companion
+### Specialized offline emergency guidance for fire, earthquake, flood, war, nuclear, chemical hazards, and more — no internet required.
 
 <p align="center">
   <img src="Docs/images/banner.png" alt="NuraSafe banner" width="100%" />
